@@ -37,4 +37,4 @@ You do not need to optimize the hyperparameters. Start by using a default defini
 
 After training the model, if the results are not satisfactory, optimize it if possible.
 
-> NOTE: Solution: https://github.com/4GeeksAcademy/linear-regression-project-tutorial/blob/main/solution.ipynb
+
